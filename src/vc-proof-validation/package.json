@@ -1,0 +1,11 @@
+{
+  "name": "vc-proof-validation",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@digitalbazaar/ed25519-signature-2018": "^4.1.0",
+    "@digitalbazaar/ed25519-verification-key-2018": "^4.0.0",
+    "jsonld": "^8.3.2",
+    "jsonld-signatures": "^11.3.1"
+  }
+}
